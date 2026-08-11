@@ -13,13 +13,15 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Bowser Epic",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Koopa Kingdom",
+		"cost": 125,
+		"culture": 2,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"isNationalWonder": true,
+		"uniques": ["Only available <if[Barracks] is constructed in all [non-[Puppeted]] cities", "All newly-trained units recieve the [Morale] promotion",
+		"Cost increases by [50] per owned city"],
+		"requiredTech": "Iron Working"
 	}
 ]
