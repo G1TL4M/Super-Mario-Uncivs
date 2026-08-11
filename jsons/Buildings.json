@@ -32,4 +32,5 @@
 		"isWonder": true,
 		"uniques": ["Must he next to [Desert]", "[+2 Culture] from [Desert] tiles [in this city]"]
 		"requiredTech": "Engineering"
+	}
 ]
