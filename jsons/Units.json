@@ -10,6 +10,7 @@
 		"range": 2,
 		"cost": 450,
 		"requiredTech": "Computers",
+		"uniques": ["Withdraws before melee combat <with [64]% chance>"]
 		"requiredResource": "Aluminum",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
