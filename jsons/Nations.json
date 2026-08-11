@@ -69,8 +69,8 @@
 	{
 		"name": "Sarasaland",
 		"leaderName": "Daisy",
-		"adjective": "Sarasalanders",
-		"startBias": "Desert",
+		"adjective": ["Sarasalanders"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "uh",
