@@ -23,7 +23,7 @@
 		"range": 2,
 		"cost": 450,
 		"requiredTech": "Computers",
-		"uniques": ["Withdraws before melee combat <with [64]% chance>","[+100]% strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking",
+		"uniques": ["Withdraws before melee combat <with [64]% chance>","[+100]% Atrength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking",
 			"All tiles cost 1 movement","Ignores Zone of Control","Never appears as a Barbarian unit"],
 		"requiredResource": "Aluminum",
 		"promotions": ["Logistics","Accuracy I"],
