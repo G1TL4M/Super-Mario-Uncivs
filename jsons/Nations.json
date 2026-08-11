@@ -94,4 +94,31 @@
 		"uniqueName": "The Four Kingdoms",
 		"uniques": "uh"
 		"cities": ["Birabuto","Muda","Easton","Chai"]
+	},
+
+
+	
+	{
+		"name": "Dinosaur Land",
+		"adjective": ["Dinosaur"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "Bring Ha!",
+		"attacked": "Yoshi! *angrily*",
+		"defeated": "Yoshi... *sad*",
+		"outerColor": [0, 0, 0],
+		"outerColor": [121, 226, 30],
+	},
+	{
+		"name": "Isle Delfino",
+		"adjective": ["Pianta"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "I'm a chuckster!",
+		"attacked": "I'm a chuckster!",
+		"defeated": "aw man..."
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": "Isle Delfino",
+	}
 ]
