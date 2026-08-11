@@ -672,10 +672,10 @@
 	{
 		"name": "Morale", // Heroic Epic
 		"uniques": ["[+15]% Strength"]
-  },
-  {
-    "name": "Bowser's Army",
-    "uniques": ["May capture killed [Land] units"]
+	},
+	{
+		"name": "Bowser's Army", // Basically, kidnapping
+		"uniques": ["[+15]% Strength","May capture killed [Land] units"]
 	},
 	{
 		"name": "Great Generals I", // only for Companion Cavalry, Keshik and their subsequent upgrades
