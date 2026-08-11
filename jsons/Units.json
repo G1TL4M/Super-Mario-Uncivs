@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Koopa Troopa",
+		"unitType": "Sword",
+		"uniqueTo": "Koopa Kingdom",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 30,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "Swordsman",
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Airship",
 		"unitType": "Helicopter",
 		"uniqueTo": "Koopa Kingdom",
