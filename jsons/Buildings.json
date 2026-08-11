@@ -20,7 +20,7 @@
 		"culture": 2,
 		"happiness": 2,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if[Barracks] is constructed in all [non-[Puppeted]] cities", "All newly-trained units recieve the [Morale] promotion",
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities", "All newly-trained units recieve the [Morale] promotion",
 		"Cost increases by [50] per owned city"],
 		"requiredTech": "Iron Working"
 	}
