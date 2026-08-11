@@ -47,5 +47,22 @@
 		"startIntroPart1": "uh",
 		"startIntroPart2": "uh",
 
-		"declaringWar":, "uh",
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "uh",
+
+		"hateHello": "uh",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [20,5,0]
+		"innerColor": [255,20,0]
+		"uniqueName": "Neo Bowser Castle",
+		"uniques": ["idk"]
+		"cities": ["Bowser's Castle","8-4","Koopa City"]
 ]
