@@ -128,7 +128,7 @@
 	{
 		"name": "New Donk City",
 		"adjective": ["New Donkers"]
-		"cityStateType": "Mercantile",
+		"cityStateType": "Productive",
 
 		"declaringWar": "uh",
 		"attacked": "uh",
@@ -139,7 +139,7 @@
 	},
 	{
 		"name": "Tostarena",
-		"adjective": "Tostarenans",
+		"adjective": ["Tostarenans"],
 		"cityStateType": "Cultured",
 		"startBias": ["Desert"],
 
