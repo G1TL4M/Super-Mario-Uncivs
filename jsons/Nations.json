@@ -108,6 +108,7 @@
 		"defeated": "Yoshi... *sad*",
 		"outerColor": [0, 0, 0],
 		"outerColor": [121, 226, 30],
+		"cities": ["Dinosaur Land"],
 	},
 	{
 		"name": "Isle Delfino",
@@ -119,6 +120,6 @@
 		"defeated": "aw man..."
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": "Isle Delfino",
+		"cities": ["Isle Delfino"],
 	}
 ]
