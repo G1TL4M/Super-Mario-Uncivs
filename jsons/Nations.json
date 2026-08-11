@@ -44,6 +44,7 @@
 		"adjective": ["koopa"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
+		"personality": "Bowser",
 
 		"startIntroPart1": "uh",
 		"startIntroPart2": "uh",
