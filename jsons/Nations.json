@@ -66,4 +66,32 @@
 		"uniques": ["idk"]
 		"cities": ["Bowser's Castle","8-4","Koopa City"]
 	},
+	{
+		"name": "Sarasaland",
+		"leaderName": "Daisy",
+		"adjective": "Sarasalanders",
+		"startBias": "Desert",
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "HI I'M DAISY!",
+
+		"neutralHello": "uh",
+
+		"hateHello": "uh",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [214,145,19],
+		"innerColor": [90,0,10],
+		"uniqueName": "The Four Kingdoms",
+		"uniques": "uh"
+		"cities": ["Birabuto","Muda","Easton","Chai"]
 ]
