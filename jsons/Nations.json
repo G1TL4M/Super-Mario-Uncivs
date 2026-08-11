@@ -31,8 +31,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": ["[+2 Culture] from every [Castle]"]
+		"cities": ["Mushroom City","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -63,7 +64,7 @@
 		"outerColor": [20,5,0]
 		"innerColor": [255,20,0]
 		"uniqueName": "Neo Bowser Castle",
-		"uniques": ["idk"]
+		"uniques": ["[+2 Production] from every [Castle]"]
 		"cities": ["Bowser's Castle","Koopa City",8-4]
 	},
 	{
