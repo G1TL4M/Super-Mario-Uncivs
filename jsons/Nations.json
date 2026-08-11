@@ -102,18 +102,20 @@
 		"name": "Dinosaur Land",
 		"adjective": ["Dinosaur"],
 		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
 
 		"declaringWar": "Bring Ha!",
 		"attacked": "Yoshi! *angrily*",
 		"defeated": "Yoshi... *sad*",
 		"outerColor": [0, 0, 0],
-		"outerColor": [121, 226, 30],
+		"innerColor": [121, 226, 30],
 		"cities": ["Dinosaur Land"],
 	},
 	{
 		"name": "Isle Delfino",
 		"adjective": ["Pianta"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
 
 		"declaringWar": "I'm a chuckster!",
 		"attacked": "I'm a chuckster!",
@@ -121,5 +123,30 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
 		"cities": ["Isle Delfino"],
+	},
+	{
+		"name": "New Donk City",
+		"adjective": ["New Donkers"]
+		"cityStateType": "Productive",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200, 205, 210],
+		"cities": ["New Donk City"],
+	},
+	{
+		"name": "Tostarena",
+		"adjective": "Tostarenans",
+		"cityStateType": "Cultured",
+		"startBias": ["Desert"],
+
+		"declaringWar": "uh"'
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 30, 200],
+		"cities": ["Tostarena"],
 	}
 ]
