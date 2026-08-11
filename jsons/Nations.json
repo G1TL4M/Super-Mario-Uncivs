@@ -64,7 +64,7 @@
 		"innerColor": [255,20,0]
 		"uniqueName": "Neo Bowser Castle",
 		"uniques": ["idk"]
-		"cities": ["Bowser's Castle","8-4","Koopa City"]
+		"cities": ["Bowser's Castle","Koopa City",8-4]
 	},
 	{
 		"name": "Sarasaland",
@@ -92,7 +92,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "The Four Kingdoms",
-		"uniques": "uh"
+		"uniques": ["idk"]
 		"cities": ["Birabuto","Muda","Easton","Chai"]
 	},
 
