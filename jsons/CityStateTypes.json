@@ -52,5 +52,19 @@
             "[+26 Faith] <starting from the [Industrial era]>"
         ],
         "color": [255, 255, 255]
+    },
+    {
+        "name": "Productive",
+        "friendBonusUniques":  [
+            "[+3 Production] <before the [Medieval era]>",
+            "[+6 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Production] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Production] <before the [Medieval era]>",
+            "[+12 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Production] <starting from the [Industrial era]>"
+        ],
+        "color": [193, 77, 0]
     }
 ]
