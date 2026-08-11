@@ -40,8 +40,8 @@
 	{
 		"name": "Koopa Kingdom",
 		"leaderName": "Bowser",
-		"adjective": "koopa",
-		"startBias": "Desert",
+		"adjective": ["koopa"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "uh",
