@@ -98,6 +98,34 @@
 		"uniques": ["idk"]
 		"cities": ["Birabuto","Muda","Easton","Chai"]
 	},
+	{
+		"name": "The Kongs",
+		"leaderName": "Cranky Kong",
+		"adjective": ["Kongs"],
+		"startBias": ["Jungle"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "uh",
+
+		"hateHello": "uh",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [90,0,10],
+		"innerColor": [245,245,106],
+		"uniqueName": ["kongs"],
+		"uniques": ["[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]"]
+		"cities": ["Kong City"]
+	},
 
 
 	
