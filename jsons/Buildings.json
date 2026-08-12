@@ -35,7 +35,7 @@
 			"[+2 Gold] from [Banana] tiles [in this city]",
 			"[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiresTech": "Pottery"
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Inverted Pyramid",
