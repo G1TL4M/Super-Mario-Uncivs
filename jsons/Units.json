@@ -26,7 +26,20 @@
 		"uniques": ["Withdraws before melee combat <with [64]% chance>","[+100]% Strength <vs [Armored] units>","No defensive terrain bonus","Can move after attacking",
 			"All tiles cost 1 movement","Ignores Zone of Control","Never appears as a Barbarian unit"],
 		"requiredResource": "Aluminum",
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "machinegun"
-	}
+	},
+	{
+		"name": "Coconut Gunner",
+		"unitType": "Gunpowder",
+		"uniqueto": "The Kongs",
+		"replaces": "Rifleman",
+		"movement": 2,
+		"strength": 48,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["Woodsman"],
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
 ]
