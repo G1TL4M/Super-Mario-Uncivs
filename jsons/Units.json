@@ -41,7 +41,7 @@
 		"requiredTech": "Machinery",
 		"obsoleteTech": "Ballistics",
 		"upgradesTo": "MachineGun",
-		"uniques": ["[+32] Strength <starting from the [Industrial era>"]
+		"uniques": ["[+32] Strength <starting from the [Industrial era]>"]
 		"attackSound": "cannon"
 	},
 	{
