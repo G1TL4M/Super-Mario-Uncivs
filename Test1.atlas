@@ -3,7 +3,6 @@ Test1.png
 size: 200, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Inverted Pyramid
   rotate: false
   xy: 100, 0
