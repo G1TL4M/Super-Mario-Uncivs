@@ -40,7 +40,7 @@
 		"cost": 100,
 		"requiredTech": "Machinery",
 		"obsoleteTech": "Ballistics",
-		"upgradesTo": "MachineGun",
+		"upgradesTo": "Machine Gun",
 		"uniques": ["[+32] Strength <starting from the [Industrial era]>"]
 		"attackSound": "cannon"
 	},
