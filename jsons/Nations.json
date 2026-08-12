@@ -156,7 +156,7 @@
 	{
 		"name": "Dinosaur Land",
 		"adjective": ["Dinosaur"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Yoshi",
 		"startBias": ["Coast"],
 
 		"declaringWar": "Bring Ha!",
