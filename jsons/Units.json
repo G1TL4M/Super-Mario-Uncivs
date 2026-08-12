@@ -58,4 +58,19 @@
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
+
+	{
+		"name": "Yoshi",
+		"unitType": "Mounted",
+		"uniqueTo": "Dinosaur Land",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 22,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Landship",
+		"uniques": ["[+44] Strength <starting from the [Industrial era]>","Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 ]
