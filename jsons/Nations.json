@@ -95,7 +95,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "The Four Kingdoms",
-		"uniques": ["idk"]
+		"uniques": ["idk"],
 		"cities": ["Birabuto","Muda","Easton","Chai"]
 	},
 	{
@@ -122,8 +122,8 @@
 
 		"outerColor": [90,0,10],
 		"innerColor": [245,245,106],
-		"uniqueName": ["kongs"],
-		"uniques": ["[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]"]
+		"uniqueName": "kongs",
+		"uniques": ["[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]"],
 		"cities": ["Kong City"]
 	},
 
@@ -140,7 +140,7 @@
 		"defeated": "Yoshi... *sad*",
 		"outerColor": [0, 0, 0],
 		"innerColor": [121, 226, 30],
-		"cities": ["Dinosaur Land"],
+		"cities": ["Dinosaur Land"]
 	},
 	{
 		"name": "Isle Delfino",
@@ -153,7 +153,7 @@
 		"defeated": "aw man..."
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": ["Isle Delfino"],
+		"cities": ["Isle Delfino"]
 	},
 	{
 		"name": "New Donk City",
@@ -165,7 +165,7 @@
 		"defeated": "aw man...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [200, 205, 210],
-		"cities": ["New Donk City"],
+		"cities": ["New Donk City"]
 	},
 	{
 		"name": "Tostarena",
@@ -178,6 +178,6 @@
 		"defeated": "aw man...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [120, 30, 200],
-		"cities": ["Tostarena"],
+		"cities": ["Tostarena"]
 	}
 ]
