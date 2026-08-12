@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Art Tower",
-		"replaces": "Amphitheater",
 		"uniqueTo": "Mushroom Kingdom",
+		"replaces": "Amphitheater",
 		"cost": 100,
 		"happiness": 2,
 		"culture": 5,
@@ -14,18 +14,31 @@
 	},
 	{
 		"name": "Bowser Epic",
-		"replaces": "Heroic Epic",
 		"uniqueTo": "Koopa Kingdom",
+		"replaces": "Heroic Epic",
 		"cost": 125,
 		"culture": 2,
 		"happiness": 2,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Civilian]] units [in all cities] receive the [Bowser's Army] promotion",
 			"[+10]% Production when constructing [non-[Civilian] units [in this city]", "Cost increases by [50] per owned city"],
-		"requiredTech": "Iron Working",
+		"requiredTech": "Iron Working"
 	},
 	{
-		"name": "Inverted Pyramid"
+		"name": "Banana Cave",
+		"uniqueTo": "The Kongs",
+		"replaces": "Granary",
+		"cost": 40,
+		"food": 4,
+		"hurryCostModifier": 20,
+		"uniques": ["[+2 Food] from [Banana] tiles [in this city]",
+			"[+2 Gold] from [Banana] tiles [in this city]",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Banana] toles [in this city]"],
+		"requiresTech": "Pottery"
+	},
+	{
+		"name": "Inverted Pyramid",
 		"culture": 1,
 		"science": 1,
 		"greatPersonPoints": {"Great Engineer": 1}
