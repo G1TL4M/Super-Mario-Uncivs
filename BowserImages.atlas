@@ -1,22 +1,8 @@
 
-Test1.png
+BowserImages.png
 size: 200, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
-BuildingIcons/Inverted Pyramid
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Koopa Kingdom
   rotate: false
   xy: 0, 0
@@ -38,9 +24,9 @@ UnitPromotionIcons/Bowser's Army
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Koopa Troopa
   rotate: false
-  xy: 328, 4
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
