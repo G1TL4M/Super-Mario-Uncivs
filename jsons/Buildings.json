@@ -30,7 +30,8 @@
 		"science": 1,
 		"greatPersonPoints": {"Great Engineer": 1}
 		"isWonder": true,
-		"uniques": ["Must he next to [Desert]", "[+2 Culture] from [Desert] tiles [in this city]"]
+		"uniques": ["Must be next to [Desert]", "[+2 Culture] from [Desert] tiles [in this city]"]
 		"requiredTech": "Engineering"
+		"quote": "'The true 'can't miss' of this region, the Inverted Pyramid may look unstable, but rest assured it never topples and has thrilled tourists for years. It is said that a legendary artifact called the Binding Band lies within, and the upside-down pyramid symbolizes how those joined by it will never part even if the world turns upside down.' - Super Mario Odyssey"
 	}
 ]
