@@ -31,3 +31,10 @@ UnitIcons/Koopa Troopa
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Airship
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
