@@ -1,1 +1,4 @@
-[game,Test1,Fire Flowers]
+[game,Fire Flowers,smuBuildings,BowserImages]
+// Fire Flowers works with most images that have to do with Fire Flowers
+// smuBuildings works with buildings that aren't uniques
+// BowserImages works with images that are unique to Koopa Kingdom, this also applies to other 'Nation'Images
