@@ -545,14 +545,15 @@
 		"unbuildable": true,
 		"weight": 10
 	},
+// SMU wonders
 	{
 		"name": "Forest Of Illusion",
 		"type": "NaturalWonder",
 		"food": 2,
 		"happiness": 2,
 		"overrideStats": true,
-		"occoursOn": "[Grassland]",
-		"turnsInto": "[Grassland]",
+		"occoursOn": ["Grassland"],
+		"turnsInto": ["Grassland"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [3] to [6] [Forest] tiles"]
 		"impassable": true,
