@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Fireballer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 13,
+		"range": 2,
+		"cost": 85,
+		"requiredTech": "Philosophy",
+		"requiredResource": "Fire Flowers",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Gatling Gun",
+		"attackSound": "arrow",
+	},
+	{
 		"name": "Koopa Troopa",
 		"unitType": "Sword",
 		"uniqueTo": "Koopa Kingdom",
