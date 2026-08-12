@@ -27,6 +27,37 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Hammer Bro",
+		"unitType": "Archery",
+		"uniqueTo": "Koopa Kingdom",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 22,
+		"range": 2,
+		"cost": 125,
+		"requiredTech": "Machinery",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["[Chu-Ko-Nu] ability]"],
+		"upgradesTo": "Fire Bro",
+		"attackSound": "throw"
+	},
+	{
+		"name": "Fire Bro",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 36,
+		"cost": 220,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Fire Flowers",
+		"upgradesTo": "Machine Gun" 
+		"obsoleteTech": "Ballistics",
+		"promotions": ["[Chu-Ko-Nu] ability"],
+		"attackSound": "throw"
+	},
+	{
 		"name": "Airship",
 		"unitType": "Helicopter",
 		"uniqueTo": "Koopa Kingdom",
@@ -42,6 +73,7 @@
 		"requiredResource": "Aluminum",
 		"attackSound": "machinegun"
 	},
+	
 	{
 		"name": "Barrel Thrower",
 		"unitType": "Archery",
