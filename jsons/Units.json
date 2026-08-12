@@ -31,7 +31,7 @@
 	{
 		"name": "Coconut Gunner",
 		"unitType": "Gunpowder",
-		"uniqueto": "The Kongs",
+		"uniqueTo": "The Kongs",
 		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 48,
