@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Forest Of Illusion",
-    "type": "Natural Wonder",
+    "type": "naturalWonder",
     "food": 2,
     "happiness": 2,
     "overrideStats": true,
