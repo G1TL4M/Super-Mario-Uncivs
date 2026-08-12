@@ -29,6 +29,22 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Barrel Thrower",
+		"unitType": "Archery",
+		"uniqueTo": "The Kongs",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 24,
+		"range": 2,
+		"cost": 100,
+		"requiredTech": "Machinery",
+		"obsoleteTech": "Ballistics",
+		"upgradesTo": "MachineGun",
+		"uniques": ["[+32] Strength <starting from the [Industrial era>"]
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Coconut Gunner",
 		"unitType": "Gunpowder",
 		"uniqueTo": "The Kongs",
