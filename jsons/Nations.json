@@ -101,7 +101,7 @@
 	{
 		"name": "The Kongs",
 		"leaderName": "Cranky Kong",
-		"adjective": ["Kongs"],
+		"adjective": ["Kong"],
 		"startBias": ["Jungle"],
 
 		"startIntroPart1": "uh",
@@ -129,8 +129,8 @@
 	{
 		"name": "The Kremlings",
 		"leaderName": "King K. Rool",
-		"adjective": "Kremling",
-		"startBias": "Coast",
+		"adjective": ["Kremling"],
+		"startBias": ["Coast"],
 
 		"declaringWar": "uh",
 		"attacked": "uh",
