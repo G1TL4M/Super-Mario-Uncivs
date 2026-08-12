@@ -126,9 +126,30 @@
 		"uniques": ["[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]"],
 		"cities": ["Kong City"]
 	},
+	{
+		"name": "The Kremlings",
+		"leaderName": "King K. Rool",
+		"adjective": "Kremling",
+		"startBias": "Coast",
 
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
 
-	
+		"neutralHello": "uh",
+
+		"hateHello": "uh",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [18,66,22],
+		"innerColor": [109,2,0],
+		"uniqueName": "idk",
+		"uniques": ["idk"],
+		"cities": ["idk"]
 	{
 		"name": "Dinosaur Land",
 		"adjective": ["Dinosaur"],
