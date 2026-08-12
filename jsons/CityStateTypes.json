@@ -80,5 +80,13 @@
             "[+26 Science] <starting from the [Industrial era]>"
         ],
         "color": [141, 156, 255]
+    },
+
+    {
+        "name": "Yoshi",
+        "friendBonusUniques": ["[+2 Food] [in capital]"],
+        "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides military units every ≈[20] turns"],
+        "uniques": ["Start bias [Coast]"],
+        "color": [56, 255, 112]
     }
 ]
