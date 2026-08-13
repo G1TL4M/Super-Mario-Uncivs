@@ -55,7 +55,7 @@
 		"defeated": "uh",
 		"introduction": "uh",
 
-		"neutralHello": "uh",
+		"neutralHello": "Yo!",
 
 		"hateHello": "uh",
 
@@ -63,10 +63,10 @@
 		"denounced": "uh",
 		"declaringfriendship": "uh",
 
-		"outerColor": [20,5,0]
-		"innerColor": [255,20,0]
+		"outerColor": [40,10,0]
+		"innerColor": [255,25,0]
 		"uniqueName": "Neo Bowser Castle",
-		"uniques": ["[+2 Production] from every [Castle]"]
+		"uniques": ["[+10 City Strength]","[+2 Production] from every [Castle]"]
 		"cities": ["Bowser's Castle","Koopa City",8-4]
 	},
 	{
