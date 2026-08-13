@@ -38,7 +38,7 @@
 		"cost": 125,
 		"requiredTech": "Machinery",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["[Chu-Ko-Nu] ability]"],
+		"promotions": ["[Chu-Ko-Nu] ability"],
 		"upgradesTo": "Fire Bro",
 		"attackSound": "throw"
 	},
