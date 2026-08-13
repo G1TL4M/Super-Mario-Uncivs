@@ -66,8 +66,8 @@
 		"outerColor": [40,10,0]
 		"innerColor": [255,25,0]
 		"uniqueName": "Neo Bowser Castle",
-		"uniques": ["[+10 City Strength]","[+2 Production] from every [Castle]"]
-		"cities": ["Bowser's Castle","Koopa City",8-4]
+		"uniques": ["[+2 Production] from every [Castle]"]
+		"cities": ["Bowser's Castle","Koopa City","8-4"]
 	},
 	{
 		"name": "Sarasaland",
