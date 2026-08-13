@@ -30,8 +30,8 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [255,90,100],
 		"uniqueName": "MANIFEST_DESTINY",
 		"uniques": ["[+2 Culture] from every [Castle]"]
 		"cities": ["Mushroom City","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
