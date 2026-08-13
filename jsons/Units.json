@@ -108,6 +108,20 @@
 	},
 
 	{
+		"name": "Gangplank Galleon",
+		"unitType": "Melee Water",
+		"uniqueTo": "Kremling Krew",
+		"replaces": "Privateer",
+		"movement": 6,
+		"strength": 30,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"promotions": ["[Privateer] ability","Coastal Raider I","Coastal Raider II"],
+		"upgradesTo": "Destroyer",
+		"attackSound": "cannon",
+	},
+
+	{
 		"name": "Yoshi",
 		"unitType": "Mounted",
 		"uniqueTo": "Dinosaur Land",
