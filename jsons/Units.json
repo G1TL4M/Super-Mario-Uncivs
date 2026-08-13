@@ -45,6 +45,8 @@
 	{
 		"name": "Fire Bro",
 		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Koopa Kingdom",
+		"replaces": "Gatling Gun",
 		"range": 1,
 		"movement": 2,
 		"strength": 32,
