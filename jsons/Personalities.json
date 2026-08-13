@@ -1365,13 +1365,13 @@
   {
     "name": "Bowser",
     "production": 6,
-    "food": 7,
+    "food": 6,
     "gold": 6,
     "science": 6,
     "culture": 6,
     "happiness": 6,
     "faith": 5,
-    "military": 10,
+    "military": 9,
     "aggressive": 8,
     "declareWar": 6,
     "commerce": 5,
@@ -1391,5 +1391,33 @@
       "Autocracy": 9,
       "Order": 6
     }
-  }
+  },
+  {
+    "name": "King K. Rool",
+    "production": 5,
+    "food": 7,
+    "gold": 9,
+    "science": 5,
+    "culture": 5,
+    "happiness": 3,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 9,
+    "declareWar": 7,
+    "diplomacy": 3,
+    "loyal": 3,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 6,
+      "Honor": 7,
+      "Commerce": 9,
+      "Patronage": 4,
+      "Piety": 4,
+      "Rationalism": 5,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 6,
+    
     ]
