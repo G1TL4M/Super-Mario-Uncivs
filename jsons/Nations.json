@@ -154,7 +154,7 @@
 	
 	{
 		"name": "Beanbean Kingdom",
-		"adjective": "Beanish",
+		"adjective": ["Beanish"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "uh",
@@ -166,7 +166,7 @@
 	},
 	{
 		"name": "Dinosaur Land",
-		"adjective": ["Dinosaur"],
+		"adjective": ["Yoshi"],
 		"cityStateType": "Yoshi",
 		"startBias": ["Coast"],
 
@@ -178,6 +178,18 @@
 		"cities": ["Dinosaur Land"]
 	},
 	{
+		"name": "Flower Kingdom",
+		"adjective": ["Poplin"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 90, 100],
+		"cities": ["Petal Isles"],
+	},
+	{
 		"name": "Isle Delfino",
 		"adjective": ["Pianta"],
 		"cityStateType": "Mercantile",
@@ -187,7 +199,7 @@
 		"attacked": "I'm a chuckster!",
 		"defeated": "aw man..."
 		"outerColor": [0, 0, 0],
-		"innerColor": [51, 97, 242],
+		"innerColor": [56, 117, 247],
 		"cities": ["Isle Delfino"]
 	},
 	{
@@ -199,7 +211,7 @@
 		"attacked": "uh",
 		"defeated": "aw man...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [200, 205, 210],
+		"innerColor": [200, 205, 212],
 		"cities": ["New Donk City"]
 	},
 	{
@@ -225,7 +237,7 @@
 		"attacked": "uh",
 		"defeated": "aw man...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [120, 30, 200],
+		"innerColor": [135, 35, 215],
 		"cities": ["Tostarena"]
 	}
 ]
