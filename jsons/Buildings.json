@@ -25,7 +25,7 @@
 		"requiredTech": "Iron Working"
 	},
 	{
-		"name": "Banana Cave",
+		"name": "Banana Hoard",
 		"uniqueTo": "The Kongs",
 		"replaces": "Granary",
 		"cost": 40,
