@@ -63,8 +63,8 @@
 		"denounced": "uh",
 		"declaringfriendship": "uh",
 
-		"outerColor": [40,10,0]
-		"innerColor": [255,25,0]
+		"outerColor": [50,15,0]
+		"innerColor": [255,50,0]
 		"uniqueName": "Neo Bowser Castle",
 		"uniques": ["[+25]% Strength for cities","[+2 Production] from every [Castle]"]
 		"cities": ["Bowser's Castle","Koopa City","8-4"]
