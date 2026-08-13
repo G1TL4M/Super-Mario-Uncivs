@@ -3,7 +3,7 @@
     "name": "Fire Flowers",
 		"resourceType": "Strategic",
 		"revealedBy": "Calendar",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"production": 1},
