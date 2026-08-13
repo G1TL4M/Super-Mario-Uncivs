@@ -56,6 +56,7 @@
         "Grassland+Forest+Deer": ["Grassland","Deer","GrasslandForest"],
         "Grassland+Forest+Furs": ["Grassland","Furs","GrasslandForest"],
 	"Grassland+Forest+Truffles": ["Grassland","Truffles","GrasslandForest"],
+		"Grassland+Forest+Fire Flowers": ["Grassland","Fire Flowers","GrasslandForest"],
         //Grassland+Hill
         "Grassland+Hill+Forest+Lumber mill": ["Grassland","Hill","HillForest+Lumber mill"],
         "Grassland+Hill+Forest+Horses": ["Grassland","Hill","Horses","Forest"],
