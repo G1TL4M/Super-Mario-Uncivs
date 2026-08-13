@@ -152,6 +152,18 @@
 
 	
 	{
+		"name": "Beanbean Kingdom",
+		"adjective": "Beanish",
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [30, 226, 121],
+		"cities": ["Beanbean Town"]
+	},
+	{
 		"name": "Dinosaur Land",
 		"adjective": ["Dinosaur"],
 		"cityStateType": "Yoshi",
@@ -188,6 +200,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [200, 205, 210],
 		"cities": ["New Donk City"]
+	},
+	{
+		"name": "Pi'illo",
+		"adjective": ["Pi'illo"]
+		"cityStateType": "Cultured",
+		"startBias": ["Coast"],
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [245, 120, 100],
+		"cities": ["Wakeport"]
 	},
 	{
 		"name": "Tostarena",
