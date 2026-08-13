@@ -128,6 +128,7 @@
 		"leaderName": "King K. Rool",
 		"adjective": ["Kremling"],
 		"startBias": ["Coast"],
+		"personality": "King K. Rool",
 
 		"declaringWar": "uh",
 		"attacked": "uh",
