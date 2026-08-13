@@ -66,7 +66,7 @@
 		"outerColor": [40,10,0]
 		"innerColor": [255,25,0]
 		"uniqueName": "Neo Bowser Castle",
-		"uniques": ["[+2 Production] from every [Castle]"]
+		"uniques": ["[+25]% Strength for cities","[+2 Production] from every [Castle]"]
 		"cities": ["Bowser's Castle","Koopa City","8-4"]
 	},
 	{
@@ -95,7 +95,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "The Four Kingdoms",
-		"uniques": ["idk"],
+		"uniques": ["[+15]% growth [in all cities]"],
 		"cities": ["Birabuto","Muda","Easton","Chai"]
 	},
 	{
