@@ -165,6 +165,18 @@
 		"cities": ["Beanbean Town"]
 	},
 	{
+		"name": "Bonneton",
+		"adjective": ["Bonneters"],
+		"cityStateType": "Idk",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColod": [170, 170, 170],
+		"cities": ["Bonneton"]
+	},
+	{
 		"name": "Dinosaur Land",
 		"adjective": ["Yoshi"],
 		"cityStateType": "Yoshi",
