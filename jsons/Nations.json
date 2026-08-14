@@ -264,5 +264,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [135, 35, 215],
 		"cities": ["Tostarena"]
+	},
+	{
+		"name": "TestCityState",
+		"adjective": "Testers",
+		"cityStateType": "Strategic",
+
+		"declaringWar": "This means war!",
+		"attacked": "I see...",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 128, 255],
+		"cities": ["TestCity"]
 	}
 ]
