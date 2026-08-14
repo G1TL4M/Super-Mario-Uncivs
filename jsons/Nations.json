@@ -240,6 +240,19 @@
 		"cities": ["Wakeport"]
 	},
 	{
+		"name": "Shiveria",
+		"adjective": ["Shiverians"],
+		"cityStateType": "Cultured",
+		"startBias": ["Snow"],
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [150, 230, 255],
+		"cities": ["Shiveria"]
+	},
+	{
 		"name": "Tostarena",
 		"adjective": ["Tostarenans"],
 		"cityStateType": "Cultured",
