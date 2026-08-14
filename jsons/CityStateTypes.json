@@ -54,32 +54,32 @@
         "color": [255, 255, 255]
     },
     {
-        "name": "Productive",
-        "friendBonusUniques":  [
-            "[+3 Production] <before the [Medieval era]>",
-            "[+6 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+13 Production] <starting from the [Medieval era]>"
-        ],
-        "allyBonusUniques":  [
-            "[+6 Production] <before the [Medieval era]>",
-            "[+12 Production] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Production] <starting from the [Industrial era]>"
-        ],
-        "color": [193, 77, 0]
-    },
-    {
-        "name": "Scentific",
+        "name": "Scientific",
         "friendBonusUniques":  [
             "[+3 Science] <before the [Medieval era]>",
-            "[+6 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+13 Science] <starting from the [Medieval era]>"
+            "[+6 Science] <starting from the [Medieval era]> <before starting the [Industrial era]>",
+            "[+13 Science] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques":  [
             "[+6 Science] <before the [Medieval era]>",
-            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Science] <starting from the [Industrial era]>"
+            "[+12 Science] <starting from the [Medieval era]> <before starting the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
         ],
         "color": [141, 156, 255]
+    },
+    {
+        "name": "Productive",
+        "friendBonusUniques":  [
+            "[+3 Production] <before the [Medieval era]>",
+            "[+6 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
+            "[+13 Production] <starting from the [Industrial era]>",
+        ],
+        "allyBonusUniques":  [
+            "[+6 Production] <before the [Medieval era]>",
+            "[+12 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
+            "[+26 Production] <starting from the [Industrial era]>",
+        ],
+        "color": [191, 78, 0]
     },
 
     {
@@ -88,5 +88,13 @@
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides military units every ≈[20] turns"],
         "uniques": ["Start bias [Coast]"],
         "color": [121, 226, 30]
+    },
+
+    {
+        // I dunno
+        "name": "Isolationist",
+        "friendBonusUniques": ["Provides nothing"],
+        "allyBonusUniques": ["Provides nothing"],
+        "color": [190, 190, 190]
     }
 ]
