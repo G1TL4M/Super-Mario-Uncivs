@@ -69,17 +69,26 @@
     },
     {
         "name": "Productive",
-        "friendBonusUniques":  [
-            "[+3 Production] <before the [Medieval era]>",
-            "[+6 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
-            "[+13 Production] <starting from the [Industrial era]>",
+        "friendBonusUniques": [
+            "[+10]% [Production] [in capital]"
         ],
-        "allyBonusUniques":  [
-            "[+6 Production] <before the [Medieval era]>",
-            "[+12 Production] <starting from the [Medieval era]> <before starting the [Industrial era]>",
-            "[+26 Production] <starting from the [Industrial era]>",
+        "allyBonusUniques": [
+            "[+20]% [Production] [in all cities]"
         ],
-        "color": [191, 78, 0]
+        "color": [133, 81, 53]
+    },
+    {
+        "name": "Strategic",
+        "friendBonusUniques": [
+            "[+2 Production] <before the [Medieval era]>",
+            "[+3 Production] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Production] <before the [Medieval era]>",
+            "[+3 Production] <starting from the [Medieval era]>",
+            "Provides [2] [Ice Flowers]"
+        ],
+        "color": [133, 81, 53]
     },
 
     {
