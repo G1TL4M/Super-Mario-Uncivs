@@ -23,4 +23,5 @@
 		"name": "Ice Flowers",
 		"resourceType": "Strategic",
 		"uniques": ["Can only be created by Strategic City-States"]
+	}
 ]
