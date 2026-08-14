@@ -18,5 +18,9 @@
 					"Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
-  }
+  },
+	{
+		"name": "Ice Flowers",
+		"resourceType": "Strategic",
+		"uniques": ["Can only be created by Strategic City-States"]
 ]
