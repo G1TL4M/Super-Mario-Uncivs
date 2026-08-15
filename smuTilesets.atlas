@@ -1,7 +1,8 @@
 smuTilesets.png
-size: 200, 100
+size: 80, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/FantasyHex/Tiles/Fire Flowers
   rotate: false
   xy: 4, 6
