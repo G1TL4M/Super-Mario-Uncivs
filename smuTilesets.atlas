@@ -1,0 +1,18 @@
+smuTilesets.png
+size: 200, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+TileSets/FantasyHex/Tiles/Fire Flowers
+  rotate: false
+  xy: 4, 6
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest Of Illusion
+  rotate: false
+  xy: 44, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
