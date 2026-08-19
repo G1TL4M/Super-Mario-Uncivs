@@ -77,20 +77,20 @@
         ],
         "color": [133, 81, 53]
     },
+    
     {
-        "name": "Strategic",
+        "name": "Icy",
         "friendBonusUniques": [
-            "[+2 Production] <before the [Medieval era]>",
-            "[+3 Production] <starting from the [Medieval era]>"
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
         ],
         "allyBonusUniques": [
-            "[+2 Production] <before the [Medieval era]>",
-            "[+3 Production] <starting from the [Medieval era]>",
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>",
             "Provides [2] [Ice Flowers]"
         ],
-        "color": [133, 81, 53]
+        "color": [240, 250, 255]
     },
-
     {
         "name": "Yoshi",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
