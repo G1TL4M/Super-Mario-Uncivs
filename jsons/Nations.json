@@ -190,9 +190,9 @@
 		"cities": ["Dinosaur Land"]
 	},
 	{
-		"name": "Flower Kingdom",
+		"name": "Petal Isles",
 		"adjective": ["Poplin"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Flower Kingdom",
 
 		"declaringWar": "uh",
 		"attacked": "uh",
