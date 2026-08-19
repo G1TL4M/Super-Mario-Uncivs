@@ -92,6 +92,21 @@
         "color": [240, 250, 255]
     },
     {
+        "name": "Flower Kingdom",
+        "friendBonusUniques": [
+            "[+2 Culture] <before the [Medieval era]>",
+            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+9 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+18 Culture] <starting from the [Industrial era]>",
+            "Provides [1] [Fire Flowers]", "Provides [1] [Ice Flowers]"
+        ],
+        "color": [255, 90, 100]
+    },
+    {
         "name": "Yoshi",
         "friendBonusUniques": ["[+2 Food] [in capital]"],
         "allyBonusUniques": ["[+2 Food] [in capital]", "[+1 Food] [in all cities]", "Provides military units every ≈[20] turns"],
