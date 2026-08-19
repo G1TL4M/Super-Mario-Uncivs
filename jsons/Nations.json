@@ -242,7 +242,7 @@
 	{
 		"name": "Shiveria",
 		"adjective": ["Shiverians"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Icy",
 		"startBias": ["Snow"],
 
 		"declaringWar": "uh",
