@@ -40,7 +40,7 @@
 		"name": "Koopa Kingdom",
 		"leaderName": "Bowser",
 		"adjective": ["koopa"],
-		"startBias": ["Desert"],
+		"startBias": ["Dark Lands"],
 		"preferredVictoryType": "Domination",
 		"personality": "Bowser",
 
