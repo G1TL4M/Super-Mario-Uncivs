@@ -61,7 +61,7 @@
 		"happiness": 2,
 		"movementCost": 4,
 		"overrideStats": true,
-		"occoursOn": ["Grassland","Plains"],
+		"occursOn": ["Grassland","Plains"],
 		"turnsInto": "Grassland",
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Occurs in groups of [1] to [7] tiles"],
