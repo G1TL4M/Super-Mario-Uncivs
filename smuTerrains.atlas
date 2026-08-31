@@ -5,9 +5,9 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Dark Land
   rotate: false
-  xy: 4, 0
-  size: 32, 34
-  orig: 32, 34
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Volcano
@@ -19,8 +19,8 @@ TileSets/FantasyHex/Tiles/Volcano
   index: -1
 TileSets/FantasyHex/Tiles/Lava Lakes
   rotate: false
-  xy: 84, 0
-  size: 32, 34
-  orig: 32, 34
+  xy: 84, 4
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
