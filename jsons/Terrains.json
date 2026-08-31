@@ -67,5 +67,19 @@
 			"Occurs in groups of [1] to [7] tiles"],
 		"unbuildable": true,
 		"weight": 8
+	},
+	{
+		"name": "Boo Forest",
+		"type": "NaturalWonder",
+		"food": -2,
+		"science": 5,
+		"movementCost": 4,
+		"overrideStats": true,
+		"occursOn": ["Dark Land"],
+		"turnsInto": "Dark Land",
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Occurs in groups of [1] to [4] tiles"],
+		"unbuildable": true,
+		"weight": 8
 	}
 ]
