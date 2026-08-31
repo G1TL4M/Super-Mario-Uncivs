@@ -1,7 +1,7 @@
 [
 	// terrains
 	{
-		"name": "Dark Lands",
+		"name": "Dark Land",
 		"type": "Land",
 		"movementCost": 1,
 		"RGB": [170, 70, 10],
