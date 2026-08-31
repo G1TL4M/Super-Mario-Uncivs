@@ -3,7 +3,7 @@ size: 80, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Dark Lands
+TileSets/FantasyHex/Tiles/Dark Land
   rotate: false
   xy: 4, 0
   size: 32, 40
