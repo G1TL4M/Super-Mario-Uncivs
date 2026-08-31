@@ -18,3 +18,9 @@ TileSets/FantasyHex/Tiles/Forest Of Illusion
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Boo Forest
+  rotate: false
+  xy: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
