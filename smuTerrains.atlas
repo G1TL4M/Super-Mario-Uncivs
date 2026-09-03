@@ -17,9 +17,16 @@ TileSets/FantasyHex/Tiles/Volcano
   orig: 32, 34
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lava Lakes
+TileSets/FantasyHex/Tiles/Lava
   rotate: false
   xy: 84, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Poison
+  rotate: false
+  xy: 124, 6
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
