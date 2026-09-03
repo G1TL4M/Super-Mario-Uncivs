@@ -58,9 +58,11 @@
 		"movementCost": 1,
 		"food": -1,
 		"overrideStats": true,
-		"impassable": true,
+		"movementCost": 2,
 		"occursOn": ["Coast"],
-		"uniques": ["Rare feature"]
+		"uniques": ["Rare feature",
+			"Units ending their turn on this terrain take [50] damage",
+			"Considered [Undesirable] when determining start locations"]
 	},
 	
 	// wonders
