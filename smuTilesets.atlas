@@ -1,6 +1,6 @@
 
 smuTilesets.png
-size: 80, 40
+size: 160, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -21,6 +21,13 @@ TileSets/FantasyHex/Tiles/Forest Of Illusion
 TileSets/FantasyHex/Tiles/Boo Forest
   rotate: false
   xy: 84, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lost Land
+  rotate: false
+  xy: 124, 6
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
