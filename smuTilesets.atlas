@@ -27,7 +27,7 @@ TileSets/FantasyHex/Tiles/Boo Forest
   index: -1
 TileSets/FantasyHex/Tiles/Lost Land
   rotate: false
-  xy: 124, 6
+  xy: 124, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
