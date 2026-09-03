@@ -52,6 +52,16 @@
 					"Considered [Production] when determining start locations",
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
+	{
+		"name": "Poison",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"food": -1,
+		"overrideStats": true,
+		"impassable": true,
+		"occursOn": ["Coast"],
+		"uniques": ["Rare feature"]
+	},
 	
 	// wonders
 	{
@@ -79,6 +89,20 @@
 		"turnsInto": "Dark Land",
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Occurs in groups of [1] to [4] tiles"],
+		"unbuildable": true,
+		"weight": 8
+	},
+	{
+		"name": "Lost Land",
+		"type": "NaturalWonder",
+		"science": 5,
+		"movementCost": 2,
+		"occursOn": ["Ocean"],
+		"turnsInto": "Plains",
+		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+			"Occours on latitudes from [0] to [30] percent of distance equator to pole",
+			"Neighboring tiles will convert to [Coast]",
+			"Neighboring tiles will convert to [Poison]"],
 		"unbuildable": true,
 		"weight": 8
 	}
