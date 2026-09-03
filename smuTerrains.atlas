@@ -1,5 +1,5 @@
 smuTerrains.png
-size: 80, 40
+size: 160, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
