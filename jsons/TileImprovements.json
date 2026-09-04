@@ -45,7 +45,7 @@
 		"name": "Camp",
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Does not need removal of [Mushrooms]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
 	{
@@ -146,6 +146,13 @@
 		"name": "Remove Jungle",
 		"turnsToBuild": 7,
 		"techRequired": "Bronze Working",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Remove Mushrooms",
+		"turnsToBuild": 5,
+		"techRequired": "Mining",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
