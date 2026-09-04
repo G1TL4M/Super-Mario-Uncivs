@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Deer",
-		"resourceType": "Bonus",
+		"resourceType": "Bonus",",
 		"terrainsCanBeFoundOn": ["Forest","Tundra"], // Tundra only if lowland
 		"food": 1,
 		"improvement": "Camp",
@@ -74,6 +74,15 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>"]
+	},
+	{
+		"name": "Super Mushrooms",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Mushrooms"],
+		"food": 1,
+		"improvement": "Farm",
+		"uniques": ["Generated on every [16] tiles <in [Mushrooms] tiles>",
+			"Generated on every [10] tiles <in [{Mushrooms} {Fresh Water}] tiles>"]
 	},
 	/*
 	{
@@ -135,7 +144,7 @@
 		"name": "Coal",
 		"resourceType": "Strategic",
 		"revealedBy": "Industrialization",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh","Dark Land"],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Mushrooms","Marsh","Dark Land"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
@@ -198,7 +207,7 @@
 		"name": "Uranium",
 		"resourceType": "Strategic",
 		"revealedBy": "Atomic Theory",
-		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
+		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Mushrooms","Snow"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
@@ -266,7 +275,7 @@
 	{
 		"name": "Dyes",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Mushrooms","Marsh"],
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
@@ -278,7 +287,7 @@
 	{
 		"name": "Gems",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Hill","Dark Land"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Mushrooms","Hill","Dark Land"],
 		"gold": 3,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
@@ -293,7 +302,7 @@
 	{
 		"name": "Gold Ore", // Not called "Gold" in order to not conflict with siege type units for translations
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle","Dark Land"],
+		"terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle","Mushrooms","Dark Land"],
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
@@ -308,7 +317,7 @@
 	{
 		"name": "Silver",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Tundra","Grassland"],
+		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Mushrooms","Tundra","Grassland"],
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [25] <in [Tundra] Regions>",
@@ -349,7 +358,7 @@
 	{
 		"name": "Silk",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Forest","Jungle"],
+		"terrainsCanBeFoundOn": ["Forest","Jungle","Mushrooms"],
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated with weight [5] <in [Jungle] Regions>",
@@ -468,7 +477,7 @@
 	{
 		"name": "Copper",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Grassland","Tundra"],
+		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Mushrooms","Grassland","Tundra"],
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [15] <in [Tundra] Regions>",
