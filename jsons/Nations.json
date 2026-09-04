@@ -3,7 +3,7 @@
 		"name": "Mushroom Kingdom",
 		"leaderName": "Peach",
 		"adjective": ["toad"],
-		"startBias": ["Grassland"],
+		"startBias": ["Mushrooms"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Peach",
 		
@@ -32,8 +32,8 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [255,90,100],
-		"uniqueName": "MANIFEST_DESTINY",
-		"uniques": ["[+2 Culture] from every [Castle]"]
+		"uniqueName": "",
+		"uniques": ["[+1 Culture] from every [Mushrooms]","[+2 Culture] from every [Castle]"]
 		"cities": ["Toad Town","Mushroom City","Shroom City","Decalburg","Hollijolli Village","Goomba Village"]
 	},
 	{
