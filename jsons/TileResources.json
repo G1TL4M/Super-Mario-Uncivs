@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Deer",
-		"resourceType": "Bonus",",
+		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Forest","Tundra"], // Tundra only if lowland
 		"food": 1,
 		"improvement": "Camp",
