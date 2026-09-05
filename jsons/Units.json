@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Goomba",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"uniques": ["Unbuildable","[+6] Strength <starting from the [Classical era]>","[+10] Strength <starting from the [Medieval era]>","[+12] Strength <starting from the [Renaissance era]>","[+14] Strength <starting from the [Industrial era]>","[+10] Strength <starting from the [Modern era]>","[+4] Strength <starting from the [Atomic era]>","[+6] Strength <starting from the [Information era]>"],
+		"attackSound": "nonmetalhit",
+	},
+	{
 		"name": "Fireballer",
 		"unitType": "Archery",
 		"movement": 2,
