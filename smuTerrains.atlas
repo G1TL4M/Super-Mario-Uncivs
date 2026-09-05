@@ -12,7 +12,7 @@ TileSets/FantasyHex/Tiles/Dark Land
   index: -1
 TileSets/FantasyHex/Tiles/Volcano
   rotate: false
-  xy: 44, 0
+  xy: 44, 2
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
