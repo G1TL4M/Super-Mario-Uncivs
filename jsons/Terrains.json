@@ -108,10 +108,10 @@
 		"science": 5,
 		"movementCost": 4,
 		"overrideStats": true,
-		"occursOn": ["Dark Land"],
+		"occursOn": ["Dark Land","Grassland","Plains","Desert"],
 		"turnsInto": "Dark Land",
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Occurs in groups of [1] to [4] tiles"],
+			"Occurs in groups of [1] to [7] tiles"],
 		"unbuildable": true,
 		"weight": 8
 	},
