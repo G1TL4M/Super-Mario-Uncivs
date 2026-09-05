@@ -34,7 +34,8 @@
 		"innerColor": [255,90,100],
 		"uniqueName": "",
 		"uniques": ["[+1 Culture] from every [Mushrooms]","[+2 Culture] from every [Castle]"]
-		"cities": ["Toad Town","Mushroom City","Shroom City","Decalburg","Hollijolli Village","Goomba Village"]
+		"cities": ["Toad Town",
+			"Mushroom City","Shroom City","Rogueport","Hollijolli Village","Decalburg","Goomba Village"]
 	},
 	{
 		"name": "Koopa Kingdom",
@@ -238,6 +239,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [245, 120, 100],
 		"cities": ["Wakeport"]
+	},
+	{
+		"name": "Port Prisma",
+		"adjective": ["Prisma"]
+		"cityStateType": "Cultured",
+		"startBias": ["Coast"],
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Port Prisma"]
 	},
 	{
 		"name": "Shiveria",
