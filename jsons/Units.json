@@ -101,6 +101,23 @@
 		"requiredResource": "Aluminum",
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Banzai Bill",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "Koopa Kingdom",
+		"replaces": "Atomic Bomb",
+		"movement": 1,
+		"strength": 150,
+		"rangedStrength": 150,
+		"range": 12,
+		"cost": 620,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [2]"],
+		"attackSound": "nuke"
+	},
 	
 	{
 		"name": "Barrel Thrower",
