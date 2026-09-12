@@ -49,7 +49,7 @@
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"upgradesTo": "Swordsman",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects","Can move immediately once bought"],
 		"attackSound": "nonmetalhit"
 	},
 	{
