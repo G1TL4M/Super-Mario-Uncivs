@@ -39,6 +39,7 @@
 		"upgradesTo": "Gatling Gun",
 		"attackSound": "arrow",
 	},
+	
 	{
 		"name": "Koopa Troopa",
 		"unitType": "Sword",
