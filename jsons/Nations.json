@@ -93,7 +93,7 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "The Four Kingdoms",
-		"uniques": ["[+15]% growth [in all cities]"],
+		"uniques": ["Provides a [Monument] in your first [4] cities for free","[+15]% growth [in all cities]"],
 		"cities": ["Birabuto","Muda","Easton","Chai"]
 	},
 	{
