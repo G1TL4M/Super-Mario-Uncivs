@@ -35,7 +35,8 @@
 		"uniqueName": "",
 		"uniques": ["[+1 Culture] from every [Mushrooms]","[+2 Culture] from every [Castle]"]
 		"cities": ["Toad Town",
-			"Mushroom City","Shroom City","Rogueport","Petalburg","Hollijolli Village","Decalburg","Goomba Village"]
+			"Mushroom City","Shroom City","Rogueport","Petalburg","Hollijolli Village",
+			"Decalburg","Goomba Village"]
 	},
 	{
 		"name": "Koopa Kingdom",
@@ -90,7 +91,7 @@
 		"denounced": "uh",
 		"declaringfriendship": "uh",
 
-		"outerColor": [214,145,19],
+		"outerColor": [220,160,28],
 		"innerColor": [90,0,10],
 		"uniqueName": "The Four Kingdoms",
 		"uniques": ["Provides a [Monument] in your first [4] cities for free","[+15]% growth [in all cities]"],
@@ -118,8 +119,8 @@
 		"denounced": "uh",
 		"declaringfriendship": "uh",
 
-		"outerColor": [90,0,10],
-		"innerColor": [245,245,106],
+		"outerColor": [115,25,10],
+		"innerColor": [245,245,111],
 		"uniqueName": "kongs",
 		"uniques": ["[+1 Food] from every [Bananas]","[+1 Gold] from every [Bananas]"],
 		"cities": ["Kong City"]
@@ -137,15 +138,13 @@
 		"introduction": "uh",
 
 		"neutralHello": "uh",
-
 		"hateHello": "uh",
-
 		"tradeRequest": "uh",
 		"denounced": "uh",
 		"declaringfriendship": "uh",
 
-		"outerColor": [18,66,22],
-		"innerColor": [209,29,0],
+		"outerColor": [17,56,21],
+		"innerColor": [218,74,51],
 		"uniqueName": "idk",
 		"uniques": ["idk"],
 		"cities": ["Crocodile Isle"],
@@ -228,7 +227,7 @@
 		"cities": ["New Donk City"]
 	},
 	{
-		"name": "Pi'illo",
+		"name": "Wakeport",
 		"adjective": ["Pi'illo"]
 		"cityStateType": "Cultured",
 		"startBias": ["Coast"],
