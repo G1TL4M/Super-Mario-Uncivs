@@ -177,6 +177,19 @@
 		"cities": ["Bonneton"]
 	},
 	{
+		"name": "Diamond City",
+		"adjective": ["Diamonder"], // i made this up, idk if it's real
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I'm-a gonna win!",
+		"attacked": "Have a rotten day!",
+		"defeated": "Oh My God! WAAAHHH!!!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250, 250, 100],
+		"cities": ["Diamond City"]
+	},
+	{
 		"name": "Dinosaur Land",
 		"adjective": ["Yoshi"],
 		"cityStateType": "Yoshi",
@@ -275,19 +288,7 @@
 		"attacked": "uh",
 		"defeated": "aw man...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [135, 35, 215],
+		"innerColor": [160, 55, 235],
 		"cities": ["Tostarena"]
-	},
-	{
-		"name": "TestCityState",
-		"adjective": "Testers",
-		"cityStateType": "Flower Kingdom",
-
-		"declaringWar": "This means war!",
-		"attacked": "I see...",
-		"defeated": "aw man...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 128, 255],
-		"cities": ["TestCity"]
 	}
 ]
