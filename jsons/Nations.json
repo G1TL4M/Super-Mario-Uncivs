@@ -35,8 +35,8 @@
 		"uniqueName": "",
 		"uniques": ["[+1 Culture] from every [Mushrooms]","[+2 Culture] from every [Castle]"]
 		"cities": ["Toad Town",
-			"Mushroom City","Shroom City","Rogueport","Petalburg","Hollijolli Village",
-			"Decalburg","Goomba Village"]
+			"Mushroom City","Dry Dry Outpost","Hollijolli Village","Decalburg",
+			"Goomba Village","Koopa Village","Gusty Gulch","Yoshi's Village"]
 	},
 	{
 		"name": "Koopa Kingdom",
@@ -264,6 +264,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Port Prisma"]
+	},
+	{
+		"name": "Rogueport",
+		"adjective": ["Rogueporter"] // also made this up
+		"cityStateType": "Cultured",
+		"startBias": ["Coast"],
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "aw man...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 100, 50],
+		"cities": ["Rogueport"]
 	},
 	{
 		"name": "Shiveria",
